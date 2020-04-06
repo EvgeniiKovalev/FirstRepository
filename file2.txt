@@ -1,2 +1,3 @@
 Good bye!
 22
+line from user2
